@@ -5,7 +5,7 @@ Exploits: These bounties help us identify vulnerabilities in our design and code
  
 Reach out to us for any queries:
  
-If you have any questions, please join our ???????????????? and post your queries in the Developers->contracts channel: ????? (maybe make a discord channel ?)
+If you have any questions, please write us at support@policyvoter.com
  
 ### Prizes and judging criteria
 To be decided at the sole discretion of the PolicyVoter's team.
@@ -65,3 +65,5 @@ When reporting vulnerabilities, please consider (1) attack scenario / exploitabi
 
 Any activities conducted in a manner consistent with this policy will be considered authorized conduct and we will not initiate legal action against you. If legal action is initiated by a third party against you in connection with activities conducted under this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.
 Thank you for helping keep PolicyVoter and our users safe!
+
+For any questions -> support@policyvoter.com
